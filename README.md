@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/aruntutter/3-column-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://github.com/aruntutter/3-column-preview-card-component-main/settings/pages)
+- Solution URL: [solution URL here](https://github.com/aruntutter/3-column-preview-card-component-main)
+- Live Site URL: [live site URL here](https://github.com/aruntutter/3-column-preview-card-component-main/settings/pages)
 
 ## My process
 
